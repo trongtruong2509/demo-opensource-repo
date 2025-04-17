@@ -18,3 +18,16 @@ If you discover a security vulnerability, please do the following:
 3. Include steps to reproduce the vulnerability, if possible.
 
 We will acknowledge your report within **48 hours** and provide a timeline for a fix. We appreciate your help in keeping this project secure.
+
+# Vulnerability Reporting
+
+Please report potential vulnerabilities to: **security@example.org**
+
+Provide as much detail as possible, including:
+- Affected repository and version
+- Steps to reproduce
+- Impact assessment
+
+We will acknowledge your report, investigate, and let you know the result as soon as we can.
+
+We appreciate responsible disclosure.

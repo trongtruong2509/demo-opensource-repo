@@ -1,0 +1,4 @@
+# Example CODEOWNERS file
+*       @your-org/maintainers
+.github/ @your-org/security
+docs/    @your-org/documentation
